@@ -1,0 +1,8 @@
+apis:
+  - name: GitHub API
+    url: https://api.github.com
+  - name: "Your API Here"
+    url: "https://yourapi.com"
+alerts:
+  slack: "" ##webhook url
+  discord: "" ##webhook url
