@@ -24,9 +24,3 @@ Run tests
 
 ```bash
 pytest -q
-```
-
-Notes
-
-- This repository includes a minimal `tests/test_apiwatch.py` used for unit testing. It uses mocking to avoid network calls.
-- Consider adding CI (GitHub Actions) and improving alert payload handling.
